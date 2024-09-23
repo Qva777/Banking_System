@@ -80,3 +80,4 @@ target/
 .env
 /app/.env
 db.sqlite3
+.idea
